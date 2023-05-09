@@ -1,5 +1,6 @@
-### Hi there 👋
+[![MasterHead](https://user-images.githubusercontent.com/24524555/237039902-0b9d59df-dacf-4055-9ce9-d8566ec7eca7.png)](https://github.com/wervlad)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&exclude_repo=dlsyscourse-project&hide_progress=true&layout=compact&theme=tokyonight)](https://github.com/wervlad)
 <!--
 **wervlad/wervlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
