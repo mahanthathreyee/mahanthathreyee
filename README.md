@@ -35,8 +35,10 @@
 
 ### Social
 [![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/wervlad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode)](https://leetcode.com/wervlad/)
 [![Docker Hub](https://img.shields.io/badge/docker%20hub-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
+[![Stepik](https://img.shields.io/badge/stepik-black?style=for-the-badge&logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA2ADYANhLVLGJAAAACXBIWXMAAA3XAAAN1wFCKJt4AAACOklEQVRIx91Vy67SUBRdPIwQQphKKEOgMIUfgAgDlQEjIBRCSNRPkZsY/8SJj6TFhEQ/gJlBwmPEwwkpFIyXBFgOpE2t5XV1ojs5g3PO7tr77L26NvCvm+NCvyCAPADxsP8C4C2A2Z8m4AZwA+AWAC3r9nDnviu4F4BsA2xdysH3qhJ5AbwB8FA/EAQB2WwWANBqtTCZTMz+nwA8AvDt0sw/mLMslUrUNI26qarKUChkfclHAL5z4PesZalWq9xutyTJ4XDIfr9PSZKOlUs+15ObY+CKotDr9dLhcNDlcjGZTDKTydDv91uDNE9R0WBLuVw2wGVZpsfjIQBGIhF2Oh2jXPP5nPl83squB3YBnutOgiBwtVr9Bh6LxTidTkmSm82Gi8WCJKlpmrUnT+0CvNIdGo0GSXIwGBjgoiga4NPplPF4nD6fj6PRiCRZr9fNAV7qoE5TABrcdfxk736/h9PpRCKRQLvdRjAYxGw2QzqdRrfbxX6/v+rHeqZnEA6HuV6vDUpuNhsjc1EUCYAej4eKolxVol+aXCgUqKqq0cxOp8NoNGqAy7JMktxutywWi9YmB4+9ommmXCAQYDabZSqVosvlsgWvVqtWmr44J262+iNJEnu9HofDIUlyt9uxVqvZ6dJZ8bsP4J35Q0EQuFwujXKtVitWKpWLpMJxIshrAI/1g3A4jFwuBwBQFAXj8fjOYmcWPeUCuW6dkutLBk7zyMD5fmio+2+NzCcA4of9ZwDvAXzFf28/ACl/wz4pDPBNAAAAAElFTkSuQmCC)](https://stepik.org/users/108517510)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode)](https://leetcode.com/wervlad/)
+
 
 [![profile views](https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)](https://github.com/wervlad)
 <!--
