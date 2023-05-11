@@ -33,19 +33,13 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/wervlad)
 
-### Other
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/wervlad)
-[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/wervlad)
-
 ### Social
 [![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/wervlad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode)](https://leetcode.com/wervlad/)
+[![Docker Hub](https://img.shields.io/badge/docker%20hub-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
 
 [![profile views](https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)](https://github.com/wervlad)
 <!--
-**wervlad/wervlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
