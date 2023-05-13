@@ -4,6 +4,18 @@
   </a>
 </a>
 
+<h1 align="center">Hi, guys! 👋</h1>
+
+<p align="center">
+    <b>Welcome to my page!</b><br>
+    <i>
+        I'm Vladimir.<br>
+        Currently learning to walk in ML/DL without falling on my bottom.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i>
+</p>
+
+
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
