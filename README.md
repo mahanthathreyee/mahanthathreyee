@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://user-images.githubusercontent.com/24524555/237039902-0b9d59df-dacf-4055-9ce9-d8566ec7eca7.png" alt="Header">
-  </a>
-</a>
-
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
